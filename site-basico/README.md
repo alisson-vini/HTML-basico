@@ -1,6 +1,6 @@
 # Apple History - "A Fonte" Website
 
-![Site Preview](imagens/previa_site.png)
+![Site Preview](site-basico/imagens/previa_site.png)
 
 An informative website about the history of Apple Inc., from its founding to the present day.
 
